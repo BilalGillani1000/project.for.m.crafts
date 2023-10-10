@@ -1,0 +1,374 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: Oswald;
+}
+p {
+    color: #8f8f8f;
+    font-family: Roboto;
+}
+a {
+    font-family: Roboto;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #FF6666;
+}
+                /* Alert */
+              #alert {
+                text-align: center;
+                background-color: #8f8f8f;
+                padding: 5px;
+            }
+            .alerttext {
+                color: #fff;
+                font-size: 1.3rem;
+                margin-bottom: 0;
+            }
+            .dismiss {
+                margin-left: 10px;
+                font-size: 1.2rem;
+            }
+            .dismiss:hover {
+                color: #000;
+            }
+
+              /* Title Section */
+              #title {
+                text-align: center;
+                background-color: #FCAEAE;
+                padding: 5% 10% 0;
+            }
+            .mcicon {
+                width: 20%;
+                border-radius: 100%;
+                margin: 20px 0 50px;
+            }
+            .navbar-brand {
+                font-family: 'angeline_vintaangelinevintage';                                
+                font-size: 3em;
+            }
+            .navbar {
+                margin-bottom: 1%;
+            }
+            .nav-link {
+                font-size: 1.3rem;
+            }
+            .nav-link:hover {
+                color: #FF6666;   
+            }
+            .titleimg {
+                width: 100%;
+                height: 500px;
+            }
+
+
+              /* Pricing Section */
+              #pricing {
+                padding: 6% 10% 0;
+                background-color: #FCAEAE;
+                text-align: center;
+            }
+            .slogan {
+                font-size: 3rem;
+                line-height: 1.5;
+                margin: 0 7% 5%;
+                color: #fff;
+            }
+            .pricecard {
+                padding: 3% 1.5%;
+            }
+            .pricebtn {
+                display: block;
+                width: 100%;
+                background-color: black;
+                color: #fff;
+            }
+            .pricebtn:hover {
+                background-color: #FF6666;
+                color: #fff;
+            }
+
+            hr {
+                border-style: dotted none none none;
+                border-width: 10px;
+                margin:4% auto 0;
+                width: 15%;
+                border-color: #000;
+            
+            }
+
+              /* Canvas Paintings */
+              #canvaspaintings {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #fff;
+            }
+
+
+              /* Calligraphies Section*/
+              #calligraphies {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #fff;
+            }
+
+
+              /* Phone Cases Section */
+              #phonecases {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #fff;
+            }
+
+
+              /* Stone Paintings Section */
+              #stonepaintings {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #fff;
+            }
+
+
+              /* Polaroids Section*/
+              #polaroids {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #fff;
+            }
+
+
+              /* Handmade Gifts Section*/
+              #handmadegifts {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #fff;
+            }
+
+
+            /* Common in all Collections */
+            .product {
+                margin-bottom: 50px;
+            }
+            .productimg {
+                width: 80%;
+                margin-bottom: 10px;
+            }
+            .afterdisplaycollection {
+                padding: 5% 7%;
+                text-align: center;
+                background-color: #FCAEAE;
+            }
+            .aftercollectionimg {
+                width: 100%;
+                height: 500px;
+            }
+            .collectionheading {
+                margin-bottom: 7%;
+                font-size: 3em;
+            }
+            .collectionbtn {
+                background-color: black;
+                color: #fff;
+            }
+            .collectionbtn:hover {
+                background-color: #FF6666;
+                color: #fff;
+            }
+            
+
+              /* Reviews Section*/
+              #reviews {
+                background-color: #FCAEAE;
+                text-align: center;
+                color: #fff;
+            }
+            .carousel-item {
+                padding: 5% 15%;
+            }
+            .review-img {
+                width: 12%;
+                border-radius: 100%;
+                margin: 3%;
+            }
+            .review-text {
+                font-size: 2.5rem;
+                line-height: 1.5;
+            }
+
+
+              /* Contactbtn  Section*/
+              #contactbtn {
+                padding: 5% 15%;
+                text-align: center;
+            }
+            .orderbtn {
+                background-color: #FCAEAE;
+                color: #fff;
+                margin-top: 15px;
+                font-size: 1.5em;
+                font-family: Roboto;
+            }
+            .orderbtn:hover {
+                background-color: #FF6666;
+                color: #fff;
+            }
+            .stayintouch {
+                font-size: 2.5em;
+                margin-bottom: 20px;
+            }
+
+
+            /* Links Section */
+            #links {
+                padding: 3% 15% 5%;
+                text-align: center;
+                background-color: #FCAEAE;
+              }
+            .linkicon {
+                width: 70px;
+                border-radius: 100%;
+            }
+            .linkheading {
+                display: inline-block;
+                font-family: 'angeline_vintaangelinevintage';
+                font-size: 3em;
+                margin-right: 50px;
+            }
+            .linktop {
+                margin-bottom: 30px;
+            }
+            .lastlink {
+                margin-top: 30px;
+            }
+
+
+              /* Footer Section*/
+              #footer {
+                padding: 4% 15%;
+                text-align: center;
+                background-color: #fff;
+              }
+              .footericon {
+                padding: 2% 2%;
+            }
+
+
+            /* Side Pages */
+            #sidepagetop {
+                background-color: #FCAEAE;
+                padding: 5% 10% 3%;
+            }
+            #canvaspaintingscollection {
+                text-align: center;
+            }
+            #phonecasescollection {
+                text-align: center;
+            }
+            #polaroidscollection {
+                text-align: center;
+            }
+            #handmadegiftscollection {
+                text-align: center;
+            }
+            #stonepaintingscollection {
+                text-align: center;
+            }
+            #calligraphiescollection {
+                text-align: center;
+            }
+
+
+            /* Comment Section */
+            #comment {
+                padding: 7% 15%;
+            }
+            #leavecomment {
+                text-align: center;
+            }
+            .submitbtn {
+                background-color: #FF6666;
+                color: #fff;
+                margin-top: 20px;
+                font-family: Roboto;
+            }
+            .submitbtn:hover {
+                background-color: #FCAEAE;
+                color: #fff;
+            }
+            input {
+                width: 35%;
+                background-color: #FF6666;
+                border: none;
+                color: #fff;
+            }
+            input:hover {
+                background-color: #FCAEAE;
+            }
+            label {
+                margin-right: 5%;
+                font-family: Oswald;
+                font-size: 1.5em;
+            }
+            textarea {
+                background-color: #FF6666;
+                border: none;
+                color: #fff;
+            }
+            textarea:hover {
+                background-color: #FCAEAE;
+            }
+
+
+            /* How to order */
+            #order {
+                text-align: center;
+            }
+            #ordertips {
+                padding: 5% 10%;
+            }
+            .orderimg {
+                width: 40%;
+                height: 400px;
+                margin: 30px 0;
+            }
+            .ordertips {
+                font-size: 1.5em;
+            }
+            .orderheading {
+                font-size: 3em;
+                margin-bottom: 50px;
+            }
+
+
+            /* Shipping Policy */
+            #shipping {
+                text-align: center;
+            }
+            #shippingpolicy {
+                padding: 5% 10%;
+            }
+            .policyheading {
+                font-size: 3em;
+                margin-bottom: 50px;
+            }
+            .policytext {
+                font-size: 1.5em;
+            }
+            .arrow {
+                float: left;
+            }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
