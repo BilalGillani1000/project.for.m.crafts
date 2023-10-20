@@ -236,6 +236,7 @@ a:hover {
             }
             .linktop {
                 margin-bottom: 30px;
+                display: inline-block;
             }
             .lastlink {
                 margin-top: 30px;
